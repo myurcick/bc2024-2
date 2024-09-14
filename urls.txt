@@ -1,3 +1,4 @@
 http://backend.course/#myurcick
 http://backend.course?name=%22%D0%9C%D0%B0%D0%B7%D1%83%D1%80%20%D0%AE%D1%80%D1%96%D0%B9%22&github_name=mazur_yurii&group=%22%D0%A4%D0%95%D0%86-26%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
-https://bank.gov.ua/NBU_StatService/v1/statdirectory/banks?date=20231001&period=quarter&json
+https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20231001&period=q&json 
+
