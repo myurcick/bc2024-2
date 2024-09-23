@@ -1,4 +1,4 @@
 http://backend.course/#myurcick
-http://backend.course?name=%D0%9C%D0%B0%D0%B7%D1%83%D1%80%20%D0%AE%D1%80%D1%96%D0%B9&github_name=myurcick&group=FEI-26c&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%0D%0A
+http://backend.course?name=%22%D0%9C%D0%B0%D0%B7%D1%83%D1%80%20%D0%AE%D1%80%D1%96%D0%B9%22&github_name=myurcick&group=FEI-26c&subgroup=%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%0D%0A%0D%0A%0D%0A
 https://bank.gov.ua/NBUStatService/v1/statdirectory/basindbank?date=20231001&period=q&json 
 
